@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\P227\3JuneTest\3JuneTest\bin\Debug\netcoreapp3.1\3JuneTest.exe
+C:\Users\LENOVO\Desktop\P227\3JuneTest\3JuneTest\bin\Debug\netcoreapp3.1\3JuneTest.deps.json
+C:\Users\LENOVO\Desktop\P227\3JuneTest\3JuneTest\bin\Debug\netcoreapp3.1\3JuneTest.runtimeconfig.json
+C:\Users\LENOVO\Desktop\P227\3JuneTest\3JuneTest\bin\Debug\netcoreapp3.1\3JuneTest.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\P227\3JuneTest\3JuneTest\bin\Debug\netcoreapp3.1\3JuneTest.dll
+C:\Users\LENOVO\Desktop\P227\3JuneTest\3JuneTest\bin\Debug\netcoreapp3.1\3JuneTest.pdb
+C:\Users\LENOVO\Desktop\P227\3JuneTest\3JuneTest\obj\Debug\netcoreapp3.1\3JuneTest.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\P227\3JuneTest\3JuneTest\obj\Debug\netcoreapp3.1\3JuneTest.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\P227\3JuneTest\3JuneTest\obj\Debug\netcoreapp3.1\3JuneTest.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\P227\3JuneTest\3JuneTest\obj\Debug\netcoreapp3.1\3JuneTest.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\P227\3JuneTest\3JuneTest\obj\Debug\netcoreapp3.1\3JuneTest.dll
+C:\Users\LENOVO\Desktop\P227\3JuneTest\3JuneTest\obj\Debug\netcoreapp3.1\3JuneTest.pdb
+C:\Users\LENOVO\Desktop\P227\3JuneTest\3JuneTest\obj\Debug\netcoreapp3.1\3JuneTest.genruntimeconfig.cache
